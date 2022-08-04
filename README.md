@@ -31,12 +31,10 @@
 
   ## Usage
   
-  
-  Terminal Demo 
-  https://user-images.githubusercontent.com/106487718/182875743-2b1bf3e7-606b-4503-b4e5-04329db85c6b.mp4
+   
+  [Terminal Demo](https://user-images.githubusercontent.com/106487718/182875743-2b1bf3e7-606b-4503-b4e5-04329db85c6b.mp4)
 
-  Insomnia Testing
-  https://user-images.githubusercontent.com/106487718/182876174-126d0637-3d0e-4155-b25b-3757b3f51f91.mp4
+  [Insomnia Testing](https://user-images.githubusercontent.com/106487718/182876174-126d0637-3d0e-4155-b25b-3757b3f51f91.mp4)
 
   ## License
 
